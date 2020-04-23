@@ -1,0 +1,6 @@
+[submodule "gen3-opfb"]
+	path = gen3-opfb
+	url = https://github.com/MazinLab/gen3-opfb
+[submodule "gen3-reschan"]
+	path = gen3-reschan
+	url = https://github.com/MazinLab/gen3-reschan

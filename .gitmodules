@@ -1,6 +1,18 @@
-[submodule "gen3-opfb"]
-	path = gen3-opfb
-	url = https://github.com/MazinLab/gen3-opfb
-[submodule "gen3-reschan"]
-	path = gen3-reschan
-	url = https://github.com/MazinLab/gen3-reschan
+[submodule "adc-to-opfb"]
+	path = adc-to-opfb
+	url = http://github.com/MazinLab/adc-to-opfb.git
+[submodule "opfb-fir-cfg"]
+	path = opfb-fir-cfg
+	url = http://github.com/MazinLab/opfb-fir-cfg.git
+[submodule "opfb-fir-to-fft"]
+	path = opfb-fir-to-fft
+	url = http://github.com/MazinLab/opfb-fir-to-fft.git
+[submodule "opfb-bin-to-res"]
+	path = opfb-bin-to-res
+	url = http://github.com/MazinLab/opfb-bin-to-res.git
+[submodule "resonator-dds"]
+	path = resonator-dds
+	url = http://github.com/MazinLab/resonator-dds.git
+[submodule "pkg-fft-output"]
+	path = pkg-fft-output
+	url = http://github.com/MazinLab/pkg-fft-output.git

@@ -22,3 +22,6 @@
 [submodule "phasematch-fir-cfg"]
 	path = phasematch-fir-cfg
 	url = http://github.com/MazinLab/phasematch-fir-cfg.git
+[submodule "dac-replay"]
+	path = dac-replay
+	url = http://github.com/MazinLab/dac-replay.git

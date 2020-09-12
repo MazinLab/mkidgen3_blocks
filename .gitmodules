@@ -16,3 +16,9 @@
 [submodule "pkg-fft-output"]
 	path = pkg-fft-output
 	url = http://github.com/MazinLab/pkg-fft-output.git
+[submodule "photon-trigger"]
+	path = photon-trigger
+	url = http://github.com/MazinLab/photon-trigger.git
+[submodule "phasematch-fir-cfg"]
+	path = phasematch-fir-cfg
+	url = http://github.com/MazinLab/phasematch-fir-cfg.git

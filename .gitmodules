@@ -34,3 +34,6 @@
 [submodule "gen3-timekeeper"]
 	path = gen3-timekeeper
 	url = https://github.com/Mazinlab/gen3-timekeeper
+[submodule "iq-generator"]
+	path = iq-generator
+	url = http://github.com/mazinlab/iq-generator

@@ -37,3 +37,7 @@
 [submodule "iq-generator"]
 	path = iq-generator
 	url = http://github.com/mazinlab/iq-generator
+[submodule "phase-user-attach"]
+	path = phase-user-attach
+	url = https://github.com/mazinlab/phase-user-attach.git
+	branch = develop

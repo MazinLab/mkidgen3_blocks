@@ -41,3 +41,6 @@
 	path = phase-user-attach
 	url = https://github.com/mazinlab/phase-user-attach.git
 	branch = develop
+[submodule "wb2axip"]
+	path = wb2axip
+	url = https://github.com/mazinlab/wb2axip.git

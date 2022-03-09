@@ -44,3 +44,6 @@
 [submodule "wb2axip"]
 	path = wb2axip
 	url = https://github.com/mazinlab/wb2axip.git
+[submodule "capture-upsizer"]
+	path = capture-upsizer
+	url = https://github.com/mazinlab/capture-upsizer

@@ -25,9 +25,6 @@
 [submodule "dac-replay"]
 	path = dac-replay
 	url = http://github.com/MazinLab/dac-replay.git
-[submodule "lowpass-to-phase"]
-	path = lowpass-to-phase
-	url = https://github.com/Mazinlab/lowpass-to-phase
 [submodule "iq-capture"]
 	path = iq-capture
 	url = https://github.com/Mazinlab/iq-capture

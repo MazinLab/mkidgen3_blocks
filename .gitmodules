@@ -44,3 +44,6 @@
 [submodule "capture-upsizer"]
 	path = capture-upsizer
 	url = https://github.com/mazinlab/capture-upsizer
+[submodule "ssrfft_16x4096"]
+	path = ssrfft_16x4096
+	url = https://github.com/MazinLab/ssrfft_16x4096.git

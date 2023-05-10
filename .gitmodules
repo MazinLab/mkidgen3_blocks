@@ -47,3 +47,6 @@
 [submodule "ssrfft_16x4096"]
 	path = ssrfft_16x4096
 	url = https://github.com/MazinLab/ssrfft_16x4096.git
+[submodule "iq16-to-iq4-time"]
+	path = iq16-to-iq4-time
+	url = https://github.com/MazinLab/iq16-to-iq4-time.git

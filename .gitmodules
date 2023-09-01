@@ -50,3 +50,6 @@
 [submodule "pps-synchronizer"]
 	path = pps-synchronizer
 	url = https://github.com/MazinLab/pps-synchronizer
+[submodule "iq16-to-iq4-time"]
+	path = iq16-to-iq4-time
+	url = https://github.com/MazinLab/iq16-to-iq4-time

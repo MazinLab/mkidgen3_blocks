@@ -47,3 +47,6 @@
 [submodule "ssrfft_16x4096"]
 	path = ssrfft_16x4096
 	url = https://github.com/MazinLab/ssrfft_16x4096.git
+[submodule "pps-synchronizer"]
+	path = pps-synchronizer
+	url = https://github.com/MazinLab/pps-synchronizer

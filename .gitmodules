@@ -53,3 +53,9 @@
 [submodule "iq16-to-iq4-time"]
 	path = iq16-to-iq4-time
 	url = https://github.com/MazinLab/iq16-to-iq4-time
+[submodule "dds-pinc"]
+	path = dds-pinc
+	url = https://github.com/MazinLab/dds-pinc.git
+[submodule "stream-sign-flip"]
+	path = stream-sign-flip
+	url = https://github.com/MazinLab/stream-sign-flip.git
